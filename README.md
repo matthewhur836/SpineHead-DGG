@@ -5,6 +5,8 @@ INSTRUCTIONS: For a way to run a simulation, download Wolfram Engine and run the
 
 Otherwise, you can run and interact with the notebook itself using a version of Mathematica.
 
+You will also need to install Plenum, the DGG package, in the right directory of your Wolfram installation: https://computableplant.ics.uci.edu/theses/guy/Plenum.html
+
 As an example, five snapshots of individual simulations are shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons that will appear being CaMKII bundling objects.
 
 ![SimExampleRow](https://github.com/user-attachments/assets/78443d25-dbe9-41eb-9c68-42c67584def2)
