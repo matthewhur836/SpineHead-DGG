@@ -9,4 +9,4 @@ You will also need to install Plenum, the DGG package, in the right directory of
 
 As an example, a video of individual simulations are shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
-![spinehead](https://github.com/user-attachments/assets/ccba7da1-be85-48f2-bee3-659f7cfef88a)
+![spinehead](https://github.com/user-attachments/assets/f40db273-439b-4bb2-8bf3-abd1de8b69d8)
