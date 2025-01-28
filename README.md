@@ -7,6 +7,6 @@ Otherwise, you can run and interact with the notebook itself using a version of 
 
 You will also need to install Plenum, the DGG package, in the right directory of your Wolfram installation: https://computableplant.ics.uci.edu/theses/guy/Plenum.html
 
-As an example, a video of individual simulations are shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
+As an example, a video (wait for load) of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
-![spinehead](https://github.com/user-attachments/assets/f40db273-439b-4bb2-8bf3-abd1de8b69d8)
+![spinehead](https://github.com/user-attachments/assets/84058cc5-e546-4ecc-8e04-55ccad3a9cc2)
