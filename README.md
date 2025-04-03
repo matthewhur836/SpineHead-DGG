@@ -7,7 +7,7 @@ Otherwise, you can run and interact with the notebook itself using a version of 
 
 You will also need to install Plenum, the DGG package, in the right directory of your Wolfram installation: https://computableplant.ics.uci.edu/theses/guy/Plenum.html
 
-After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instaces of "Random[]" with "RandomVariate" to allow multivariate Hessian sampling.
+After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instaces of "Random[]" with "RandomVariate[]" to allow multivariate Hessian sampling.
 
 As an example, a video (wait for load) of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
