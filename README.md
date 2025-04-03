@@ -11,4 +11,5 @@ After download, in this current version of Plenum, change lines 606 and 610 of G
 
 As an example, a video (wait for load) of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
-![spinehead](https://github.com/user-attachments/assets/84058cc5-e546-4ecc-8e04-55ccad3a9cc2)
+![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
+
