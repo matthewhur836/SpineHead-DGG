@@ -9,7 +9,7 @@ You will also need to install Plenum, the DGG package, in the right directory of
 
 After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instaces of "Random[]" with "RandomVariate[]" to allow multivariate Hessian sampling.
 
-As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, triangles being capped-ends, and hexagons being CaMKII bundling objects.
+As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, colored triangles being junction objects, squares being Arp2/3 branch objects, black triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
 ![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
 
