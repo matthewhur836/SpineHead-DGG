@@ -13,3 +13,5 @@ As an example, a video of individual simulations is shown: circles being coarse-
 
 ![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
 
+Preprint is available at https://www.biorxiv.org/content/10.1101/2025.04.18.649558v1
+
