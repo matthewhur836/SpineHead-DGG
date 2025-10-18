@@ -1,4 +1,4 @@
-# Actin Dynamical Graph Grammar (DGG) Model of the Synaptic Spine Head
+## Actin Dynamical Graph Grammar (DGG) Model of the Synaptic Spine Head
 The code in this repository simulates membrane growth from an interaction between membrane and an internal actin cytoskeletal network for a synaptic spine head.
 
 Otherwise, you can run and interact with the notebook itself using a version of Mathematica.
@@ -8,6 +8,13 @@ You will also need to install Plenum, the DGG package, in the right directory of
 After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instances of "Random[]" with "RandomVariate[]" to allow multivariate Hessian sampling.
 
 As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, colored triangles being junction objects, squares being Arp2/3 branch objects, black triangles being capped-ends, and hexagons being CaMKII bundling objects.
+
+
+# 9-30-25 Version 2
+
+![out](https://github.com/user-attachments/assets/7badcadb-48b2-4f5f-9daf-36cfcc1aa165)
+
+# 4-3-25 Version 1
 
 ![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
 
