@@ -10,9 +10,10 @@ After download, in this current version of Plenum, change lines 606 and 610 of G
 As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, colored triangles being junction objects, squares being Arp2/3 branch objects, black triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
 
-# 9-30-25 Version 2
+# 10-21-25 Version 3
 
-![out](https://github.com/user-attachments/assets/7badcadb-48b2-4f5f-9daf-36cfcc1aa165)
+![out](https://github.com/user-attachments/assets/db7c5e77-196f-42a6-94fc-fc2f5ea2f12c)
+
 
 # 4-3-25 Version 1
 
