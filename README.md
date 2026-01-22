@@ -7,7 +7,7 @@ You will also need to install Plenum, the DGG modeling language package, in the 
 It is in the directory Plenum_V1-22-26. After downloading it, follow the ReadMe.txt inside that folder.
 
 Alternatively, you can download from https://computableplant.ics.uci.edu/theses/guy/Plenum.html
-After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instances of "Random[]" with "RandomVariate[]" to allow multivariate Hessian sampling.
+After download, in this current version of Plenum, change lines 606 and 610 of GrammarInterpreter.m, replacing both instances of "Random[]" with "RandomVariate[]" to allow multivariate thermal noise sampling.
 
 As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, colored triangles being junction objects, squares being Arp2/3 branch objects, black triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
