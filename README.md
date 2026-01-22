@@ -12,7 +12,7 @@ As an example, a video of individual simulations is shown: circles being coarse-
 
 # 1-22-26 Version
 
-https://github.com/user-attachments/assets/4189c2b8-ee82-4855-a71d-15a308e350c4 https://github.com/user-attachments/assets/f6258df3-981a-4cf2-9b4f-2f8e44789154
+![spinehead1](https://github.com/user-attachments/assets/4189c2b8-ee82-4855-a71d-15a308e350c4) ![spinehead2](https://github.com/user-attachments/assets/f6258df3-981a-4cf2-9b4f-2f8e44789154)
 
 # 4-3-25 Version
 
