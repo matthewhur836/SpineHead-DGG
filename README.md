@@ -1,7 +1,7 @@
 ## Actin Dynamical Graph Grammar (DGG) Model of the Synaptic Spine Head
 The code in this repository simulates membrane growth from an interaction between membrane and an internal actin cytoskeletal network for a synaptic spine head.
 
-Uou can run and interact with the notebook itself using a version of Mathematica.
+You can run and interact with the notebook itself using a version of Mathematica.
 
 You will also need to install Plenum, the DGG package, in the right directory of your Wolfram installation: https://computableplant.ics.uci.edu/theses/guy/Plenum.html
 
