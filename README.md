@@ -16,12 +16,17 @@ As an example, a video of individual simulations is shown: circles being coarse-
 
 ![spinehead1](https://github.com/user-attachments/assets/4189c2b8-ee82-4855-a71d-15a308e350c4) ![spinehead2](https://github.com/user-attachments/assets/f6258df3-981a-4cf2-9b4f-2f8e44789154)
 
-<img width="356" height="403" alt="Screenshot 2026-02-19 at 10 56 13 PM" src="https://github.com/user-attachments/assets/9db4bbd0-eb5b-490b-96bb-5404feaa2222" />
-
 
 # 4-3-25 Version
 
 ![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
 
 Preprint is available at https://www.biorxiv.org/content/10.1101/2025.04.18.649558v1
+
+
+2-19-26 Update
+
+Additional work has been done for 3D version of the synaptic spine head, as outputted below:
+
+<img width="356" height="403" alt="Screenshot 2026-02-19 at 10 56 13 PM" src="https://github.com/user-attachments/assets/d8e7b29f-07f2-4392-af5b-c02bc81d23f9" />
 
