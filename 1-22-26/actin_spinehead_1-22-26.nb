@@ -29203,7 +29203,7 @@ Cell[BoxData[
            RowBox[{"Clear", "[", "simSpine", "]"}], ";", "\n", 
            RowBox[{"executeGrammar", "[", 
             RowBox[{"modelSpine", ",", "ic", ",", "10000000", ",", "True", ",", 
-             RowBox[{"maxTotalSimulationTime", "->", ".025"}]}], "]"}], ";", 
+             RowBox[{"maxTotalSimulationTime", "->", ".25"}]}], "]"}], ";", 
            "\n", 
            RowBox[{"simSpineCheck", "=", 
             RowBox[{"getSimulationStruct", "[", "]"}]}], ";"}]}], "\n", "]"}],
