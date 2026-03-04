@@ -21,7 +21,7 @@ Figure 4 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDArpeta1, _STUB_AIP_
 
 Figure 5 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDCofeta1, _STUB_AIP_1-11-26STUBMIXEDCofeta2, _STUB_AIP_1-11-26STUBMIXEDCofeta4; and
 
-Figure 6 from snapshots in folders _STUB_1-9-26Arp, _STUB_1-9-26Arp, _STUB_1-9-26Arp.
+Figure 6 from snapshots in folders _STUB_1-9-26Arp, _STUB_1-9-26Cam, _STUB_1-9-26Cof.
 
 # 1-22-26 Version
 
