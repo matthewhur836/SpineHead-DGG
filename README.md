@@ -11,6 +11,12 @@ After download, in this current version of Plenum, change lines 606 and 610 of G
 
 As an example, a video of individual simulations is shown: circles being coarse-grained actin objects, color indicating angular energy with green being the barbed end, colored triangles being junction objects, squares being Arp2/3 branch objects, black triangles being capped-ends, and hexagons being CaMKII bundling objects.
 
+For the data used to generate all plots in the manuscript (Preprint is available at https://www.biorxiv.org/content/10.1101/2025.04.18.649558v1), download SnapshotsInPublication. 
+Figure 2 is generated from snapshots in folders _STUB_AIP_1-9-26Arp, _STUB_AIP_1-9-26Cam, _STUB_AIP_1-9-26Cof, _STUB_AIP_1-9-26Aip1;
+Figure 3 from snapshots in folders _STUB_AIP_2-4-26STUBMIXEDCameta1, _STUB_AIP_2-4-26STUBMIXEDCameta2, _STUB_AIP_2-4-26STUBMIXEDCameta4;
+Figure 4 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDArpeta1, _STUB_AIP_1-11-26STUBMIXEDArpeta2, _STUB_AIP_1-11-26STUBMIXEDArpeta4;
+Figure 5 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDCofeta1, _STUB_AIP_1-11-26STUBMIXEDCofeta2, _STUB_AIP_1-11-26STUBMIXEDCofeta4; and
+Figure 6 from snapshots in folders _STUB_1-9-26Arp, _STUB_1-9-26Arp, _STUB_1-9-26Arp.
 
 # 1-22-26 Version
 
@@ -20,8 +26,6 @@ As an example, a video of individual simulations is shown: circles being coarse-
 # 4-3-25 Version
 
 ![spinehead](https://github.com/user-attachments/assets/3ce5a407-11a6-4c15-af8e-160d8513172e)
-
-Preprint is available at https://www.biorxiv.org/content/10.1101/2025.04.18.649558v1
 
 
 2-19-26 Update
