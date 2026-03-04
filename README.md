@@ -35,7 +35,7 @@ Figure 6 from snapshots in folders _STUB_1-9-26Arp, _STUB_1-9-26Cam, _STUB_1-9-2
 
 2-19-26 Update
 
-Additional work has been done for 3D version of the synaptic spine head, as outputted below:
+Additional work has been done for 3D version of the synaptic spine head:
 
 <img width="356" height="403" alt="Screenshot 2026-02-19 at 10 56 13 PM" src="https://github.com/user-attachments/assets/d8e7b29f-07f2-4392-af5b-c02bc81d23f9" />
 
