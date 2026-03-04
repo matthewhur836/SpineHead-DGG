@@ -14,9 +14,13 @@ As an example, a video of individual simulations is shown: circles being coarse-
 For the data used to generate all plots in the manuscript (preprint: https://www.biorxiv.org/content/10.1101/2025.04.18.649558v2), download "SnapshotsInPaper:
 
 Figure 2 is generated from snapshots in folders _STUB_AIP_1-9-26Arp, _STUB_AIP_1-9-26Cam, _STUB_AIP_1-9-26Cof, _STUB_AIP_1-9-26Aip1;
+
 Figure 3 from snapshots in folders _STUB_AIP_2-4-26STUBMIXEDCameta1, _STUB_AIP_2-4-26STUBMIXEDCameta2, _STUB_AIP_2-4-26STUBMIXEDCameta4;
+
 Figure 4 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDArpeta1, _STUB_AIP_1-11-26STUBMIXEDArpeta2, _STUB_AIP_1-11-26STUBMIXEDArpeta4;
+
 Figure 5 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDCofeta1, _STUB_AIP_1-11-26STUBMIXEDCofeta2, _STUB_AIP_1-11-26STUBMIXEDCofeta4; and
+
 Figure 6 from snapshots in folders _STUB_1-9-26Arp, _STUB_1-9-26Arp, _STUB_1-9-26Arp.
 
 # 1-22-26 Version
