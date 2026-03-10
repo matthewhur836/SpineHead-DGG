@@ -8268,7 +8268,7 @@ Cell[BoxData[
   RowBox[{
    RowBox[{
     RowBox[{"kappa", "=", 
-     RowBox[{".005", "*", 
+     RowBox[{".0005", "*", 
       RowBox[{"10", "^", 
        RowBox[{"-", "18"}]}]}]}], ";"}], "\[IndentingNewLine]", 
    RowBox[{
