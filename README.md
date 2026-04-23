@@ -17,7 +17,7 @@ Figure 2 is generated from snapshots in folders _STUB_AIP_1-9-26Arp, _STUB_AIP_1
 
 Figure 3 from snapshots in folders _STUB_AIP_2-4-26STUBMIXEDCameta1, _STUB_AIP_2-4-26STUBMIXEDCameta2, _STUB_AIP_2-4-26STUBMIXEDCameta4;
 
-Figure 4 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDArpeta1, _STUB_AIP_1-11-26STUBMIXEDArpeta2, _STUB_AIP_1-11-26STUBMIXEDArpeta4;
+Figure 4 from snapshots in folders _STUB_AIP_2-4-26STUBMIXEDCameta1, _STUB_AIP_1-14-26STUBMIXEDCameta2, _STUB_AIP_1-14-26STUBMIXEDCameta4;
 
 Figure 5 from snapshots in folders _STUB_AIP_1-11-26STUBMIXEDCofeta1, _STUB_AIP_1-11-26STUBMIXEDCofeta2, _STUB_AIP_1-11-26STUBMIXEDCofeta4; and
 
